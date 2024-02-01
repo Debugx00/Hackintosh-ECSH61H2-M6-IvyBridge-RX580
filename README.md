@@ -1,4 +1,4 @@
-# Hackintosh-ECSH61H2-M6-IvyBridge-RX580
+# Hackintosh ECSH61H2-M6 IvyBridge (i5-3330) Gigabyte RX580 4Gb
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-green.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)
 [![macOS](https://img.shields.io/badge/macOS_Sonoma-14.2.1-orange.svg)](https://support.apple.com/en-us/HT214048)
